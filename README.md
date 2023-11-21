@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MariusL4D
+- 👀 I’m interested in Gaming, Photography and general HTML(extremely new)
+- 🌱 I’m currently learning HTML, CSS, Javascript and many other stuff used to make a website
+- 📫 How to reach me: @mariuslad on discord!
